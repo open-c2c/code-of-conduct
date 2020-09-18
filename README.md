@@ -4,14 +4,14 @@ The Open Code of Conduct is a collaborative pro bono effort by Canadian Furries 
 The project lead was Tempe O'Kun.
 
 ## How to use it
-Refer to open-code-of-conduct.md
+Refer to [Open Code of Conduct text](open-code-of-conduct.md).
 
 From there you can fork or copy-paste and start working on your convention's Code of Conduct anywhere you want. Make sure to watch this repository for updates.
 
 This document may be freely used (in whole or in part, modified or unmodified) by any other convention, meet-up, or similar gathering, in Canada or internationally. It does not constitute professional legal or medical advice.
 
 ## License
-For more information, go to LICENSE.md
+For more information, go to [License](LICENSE.md).
 
 ## Endorsements
 This code of conduct has been written under the advisement of the following organizations, who endorse it:
