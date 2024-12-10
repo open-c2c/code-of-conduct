@@ -3,7 +3,7 @@
 
 Open Furry Convention Project (OpenFurCon)
 
-*Last revised: August 2022*
+*Last revised: December 2024*
 
 Thank you for serving as a staff member or volunteer in our convention's Registration department! By volunteering your time in such a critical department, you help make the convention a success! However, due to the nature of the position, we must convey some ground rules and set expectations regarding the use and access to our computers and attendee **Personally Identifiable Information** (known hereafter as PII) found on those computers.
 
