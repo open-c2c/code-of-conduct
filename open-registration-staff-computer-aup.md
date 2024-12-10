@@ -37,7 +37,7 @@ The registration computers and printers are managed by `[[ INSERT NAMES OF TECHN
 - Do not turn on the wireless antennas on any computers, or attempt to use wifi (802.11) or Bluetooth connections.
 - Do not plug anything other than a convention-provided keyboard or mouse into USB ports without checking first.
 - Do not attempt to give yourself higher-level access to the registration system.
-- Do not attempt to give yourself higher-level access to any convention machines. This includes command-line and MySQL access.
+- Do not attempt to give yourself higher-level access to any convention machines. This includes command-line and database access (E.g.: MySQL or Postgresql).
 
 We apologize if any of this document seems excessively strict, but we wish to be as explicit as possible so that there are no misunderstandings. Violations of any of the rules set forth above are punishable by a verbal or written warning, revocation of staff status, or, in extreme cases, being asked to leave the convention itself.
 
