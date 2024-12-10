@@ -1,7 +1,7 @@
 # Convention Code Of Conduct
-C2C - Open Code of Conduct Project
+[Canadian Furries Coast to Coast (C2C)](https://github.com/open-c2c).
 
-Last revised: July 2020 (v1.0.0)
+*Last revised: July 2020*
 
 ## Introduction
 The following is the summary of the rules and regulations for this convention. For more details, please consult Convention Operations.
