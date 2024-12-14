@@ -3,7 +3,7 @@
 
 Open Furry Convention Project (OpenFurCon)
 
-*Last revised: August 2022*
+*Last revised: December 2024*
 
 Thank you for serving as a staff member or volunteer in our convention's Registration department! By volunteering your time in such a critical department, you help make the convention a success! However, due to the nature of the position, we must convey some ground rules and set expectations regarding the use and access to our computers and attendee **Personally Identifiable Information** (known hereafter as PII) found on those computers.
 
@@ -37,7 +37,7 @@ The registration computers and printers are managed by `[[ INSERT NAMES OF TECHN
 - Do not turn on the wireless antennas on any computers, or attempt to use wifi (802.11) or Bluetooth connections.
 - Do not plug anything other than a convention-provided keyboard or mouse into USB ports without checking first.
 - Do not attempt to give yourself higher-level access to the registration system.
-- Do not attempt to give yourself higher-level access to any convention machines. This includes command-line and MySQL access.
+- Do not attempt to give yourself higher-level access to any convention machines. This includes command-line and database access (E.g.: MySQL or Postgresql).
 
 We apologize if any of this document seems excessively strict, but we wish to be as explicit as possible so that there are no misunderstandings. Violations of any of the rules set forth above are punishable by a verbal or written warning, revocation of staff status, or, in extreme cases, being asked to leave the convention itself.
 
