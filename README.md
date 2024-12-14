@@ -30,4 +30,5 @@ This project has been written under the advisement of the following organization
  - [Sofawolf Press](https://www.sofawolf.com/)
  - [ThinkTank Games](https://www.facebook.com/ThinkTankGames/)
  - [Thurston Howl Press](https://www.thurstonhowlpublications.com/)
+ - Furry Writers Guild
  
