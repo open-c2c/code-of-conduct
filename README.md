@@ -21,7 +21,7 @@ For more information, go to [License](LICENSE.md).
 ## Endorsements
 This project has been written under the advisement of the following organizations, who endorse it:
  - [Canadian Furries Coast to Coast (C2C)](https://t.me/joinchat/BBFjFE_DBKzFZxc9TErwaQ)
- - [Culturally F'd](https://www.youtube.com/channel/UCTLM2s914zA_O2S6II_BCWw)
+ - ["Culturally F'd / Furry Film Burrow](https://www.youtube.com/channel/UCTLM2s914zA_O2S6II_BCWw)
  - [FurPlanet Productions](https://furplanet.com/)
  - Furry Library Project
  - [Furscience](https://furscience.com/) (International Anthropomorphic Research Project)
